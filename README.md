@@ -1,5 +1,3 @@
-<img width="1536" height="768" alt="2" src="https://github.com/user-attachments/assets/b0e95518-e340-4df3-84cd-1507c8576eb1" />
-
 # Ultra-Lean Commerce Platform
 
 A lightweight, self-hostable, multi-tenant e-commerce platform designed to run many stores on minimal infrastructure.
@@ -7,6 +5,8 @@ A lightweight, self-hostable, multi-tenant e-commerce platform designed to run m
 The goal of this project is to provide a **simple, efficient, and developer-friendly commerce platform** that allows individuals and businesses to operate online stores without the heavy infrastructure requirements of traditional systems.
 
 ---
+
+<img width="1536" height="768" alt="2" src="https://github.com/user-attachments/assets/b0e95518-e340-4df3-84cd-1507c8576eb1" />
 
 # Vision
 
